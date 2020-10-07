@@ -12,11 +12,12 @@
     font-weight: bolder;
 }
 .paragraph{
-    font-size: 1.4rem;
+    font-size: 1rem;
     text-align: center;
     color: #d5dce6;
 }
 .contentCard{
+    height:548pt;
     margin: 0 220px;
     background-color: #181A1B;
 }
