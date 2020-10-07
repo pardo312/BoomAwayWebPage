@@ -1,6 +1,5 @@
 import React from 'react'
 import './Pages.css';
-import UnityWebGL from'../components/UnityWebGL';
 
 
 function Home() {
@@ -31,7 +30,18 @@ function Home() {
                 </div>
             </div>
             <div className="GameCard">
-                <UnityWebGL/>
+                <div className="container" >
+                    <div className="row" >
+                        <div className="col-xl-12">
+                            <a type="button" href="https://boomawayinc.itch.io/boomaway" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-lg center button" style={{marginTop:"150px"}}>!Realizar encuesta rapida!</a>
+                        </div>
+                    </div>
+                    <div className="row" >
+                        <div className="col-xl-12">
+                            <a type="button" href="https://boomawayinc.itch.io/boomaway" target="_blank" rel="noopener noreferrer" className="btn btn-success btn-lg center button" style={{marginTop:"50px"}}>!Jugar al juego!</a>
+                        </div>  
+                    </div>
+                </div>
             </div>
         </div>
     )
