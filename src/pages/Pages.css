@@ -2,7 +2,7 @@
 .aboutMe {
   background-color: #6B3C0F;
   text-align: center;
-  height: 700pt;
+  height: 800pt;
   justify-content: center;
 }
 
@@ -15,28 +15,19 @@
     font-size: 1rem;
     text-align: center;
     color: #d5dce6;
+    width: 70%;
+    margin-left: 15%;
+    
 }
 .GameCard{  
-    height:30%;
+    height:40%;
     margin: 0 220px;
     background-color: #181A1B;
 }
 .contentCard{
-    height:70%;
+    height:60%;
     margin: 0 220px;
     background-color: #181A1B;
-}
-.barFrame{
-    background-color: grey;
-    justify-content: left;
-    margin-left: 30px;
-    padding: 0px;
-    width: 90%;
-    border-radius:25px;
-}
-.barValue{
-    background-color: #D5DCE6; 
-    border-radius:25px;
 }
 .center{
     text-align: center;
