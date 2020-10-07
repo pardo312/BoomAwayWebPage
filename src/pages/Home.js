@@ -6,7 +6,7 @@ import UnityWebGL from'../components/UnityWebGL';
 function Home() {
     return (
         <div className="home">
-            <div className="unityWebPlayer">
+            <div className="GameCard">
                 <UnityWebGL/>
             </div>
             <div className="contentCard">
