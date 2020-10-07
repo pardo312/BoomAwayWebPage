@@ -1,0 +1,43 @@
+.home,
+.aboutMe {
+  background-color: #6B3C0F;
+  text-align: center;
+  height:1000pt;
+  justify-content: center;
+}
+
+.title{
+    font-size: 60px;
+    color: #B5A440;
+    font-weight: bolder;
+}
+.paragraph{
+    font-size: 1.4rem;
+    text-align: center;
+    color: #d5dce6;
+}
+.contentCard{
+    margin: 0 220px;
+    background-color: #181A1B;
+}
+
+.barFrame{
+    background-color: grey;
+    justify-content: left;
+    margin-left: 30px;
+    padding: 0px;
+    width: 90%;
+    border-radius:25px;
+}
+.barValue{
+    background-color: #D5DCE6; 
+    border-radius:25px;
+}
+.center{
+    text-align: center;
+    align-items: center;
+}
+.aling-Left{
+    text-align: left;
+    align-items: left;
+}
