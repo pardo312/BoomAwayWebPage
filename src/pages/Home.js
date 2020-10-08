@@ -31,15 +31,25 @@ function Home() {
             </div>
             <div className="GameCard">
                 <div className="container" >
-                    <div className="row" >
-                        <div className="col-xl-12">
-                            <a type="button" href="https://boomawayinc.itch.io/boomaway" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-lg center button" style={{marginTop:"150px"}}>!Realizar encuesta rapida!</a>
-                        </div>
-                    </div>
+                    
                     <div className="row" >
                         <div className="col-xl-12">
                             <a type="button" href="https://boomawayinc.itch.io/boomaway" target="_blank" rel="noopener noreferrer" className="btn btn-success btn-lg center button" style={{marginTop:"50px"}}>!Jugar al juego!</a>
                         </div>  
+                    </div>
+                    <div className="row" >
+                        <div className="col-xl-12">
+                            <p className="subTitle" style={{marginTop:"50px"}}>
+                                Si tienes el tiempo de llenar la encuesta despues
+                                de jugar porfavor hazlo, la encuesta es bastante corta y nos ayudaria muchisimo.
+                                !Gracias!
+                            </p>
+                        </div>  
+                    </div>
+                    <div className="row" >
+                        <div className="col-xl-12">
+                            <a type="button" href="https://forms.gle/hqcJYSk2u3zyQDuFA" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-lg center button" style={{marginTop:"50px"}}>!Realizar encuesta rapida!</a>
+                        </div>
                     </div>
                 </div>
             </div>
